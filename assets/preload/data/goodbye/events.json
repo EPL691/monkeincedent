@@ -1,0 +1,149 @@
+{
+	"song": {
+		"speed": 1,
+		"stage": "stage",
+		"player1": "eplrightside",
+		"player2": "jelly",
+		"player3": null,
+		"events": [
+			[
+				18600,
+				[
+					[
+						"JumpScare",
+						"Eplsad",
+						"vineBoom"
+					]
+				]
+			],
+			[
+				20000,
+				[
+					[
+						"JumpScare",
+						"Eplsad",
+						"vineBoom"
+					]
+				]
+			],
+			[
+				24600,
+				[
+					[
+						"JumpScare",
+						"Eplsad",
+						"vineBoom"
+					]
+				]
+			],
+			[
+				102400,
+				[
+					[
+						"JumpScare",
+						"Eplsad",
+						"vineBoom"
+					]
+				]
+			],
+			[
+				107500,
+				[
+					[
+						"JumpScare",
+						"Eplsad",
+						"vineBoom"
+					]
+				]
+			],
+			[
+				130000,
+				[
+					[
+						"JumpScare",
+						"Eplsad",
+						"vineBoom"
+					]
+				]
+			],
+			[
+				130200,
+				[
+					[
+						"JumpScare",
+						"Eplsad",
+						"vineBoom"
+					]
+				]
+			],
+			[
+				130500,
+				[
+					[
+						"JumpScare",
+						"Eplsad",
+						"vineBoom"
+					]
+				]
+			],
+			[
+				130800,
+				[
+					[
+						"JumpScare",
+						"Eplsad",
+						"vineBoom"
+					]
+				]
+			],
+			[
+				131000,
+				[
+					[
+						"JumpScare",
+						"Eplsad",
+						"vineBoom"
+					]
+				]
+			],
+			[
+				131600,
+				[
+					[
+						"JumpScare",
+						"Eplsad",
+						"vineBoom"
+					]
+				]
+			],
+			[
+				132400,
+				[
+					[
+						"JumpScare",
+						"Eplsad",
+						"vineBoom"
+					]
+				]
+			],
+			[
+				132600,
+				[
+					[
+						"JumpScare",
+						"Eplsad",
+						"vineBoom"
+					]
+				]
+			]
+		],
+		"notes": [],
+		"splashSkin": "noteSplashes",
+		"validScore": false,
+		"gfVersion": "gf",
+		"bpm": 150,
+		"arrowSkin": "",
+		"needsVoices": true,
+		"song": "goodbye"
+	}
+}

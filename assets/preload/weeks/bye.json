@@ -1,0 +1,31 @@
+{
+	"songs": [
+		[
+			"goodbye",
+			"monke",
+			[
+				60,
+				0,
+				60
+			]
+		]
+	],
+	"hideFreeplay": false,
+	"weekBackground": "stage",
+	"difficulties": "Sad",
+	"weekCharacters": [
+		"",
+		"",
+		""
+	],
+	"storyName": "i cant stop crying",
+	"weekName": "Bye",
+	"freeplayColor": [
+		146,
+		113,
+		253
+	],
+	"hideStoryMode": false,
+	"weekBefore": "tutorial",
+	"startUnlocked": true
+}
